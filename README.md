@@ -26,7 +26,7 @@ tool and/or to make it open to becoming a community project for those who might 
 
 Screenshots
 __________
-![Some of the basic gameplay elements](https://i.imgur.com/lxByBiy.gif)
+![Some of the basic gameplay elements](https://i.imgur.com/lxByBiy.mp4)
 
 ![Very important testing by spamming](https://i.imgur.com/va3ri6p.png)
 
