@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86ea1694e0510604c8f4dcbecf291e07
+labels:
+- toonshader
+- toon
+- shader
+- cellshading
+- shading
+- stylized
+- matcap
+- litsphere
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
